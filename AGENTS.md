@@ -28,6 +28,6 @@ All reference material is in `KB/`:
 ## Working Conventions
 
 - The form to fill is `corfo_crea_y_valida_perfil_de_proyecto.md`.
-- Answers should be in **Spanish**, concise, and respect character limits.
+- Answers should be in **Spanish**, concise, and respect character limits. When a question specifies a maximum character count, count the answer before writing it and ensure it does not exceed that limit — trim content if needed rather than going over.
 - Reuse facts, numbers, and technical descriptions from the FONDEF formulation, but reframe them toward commercial value and market validation.
 - TRL declared: **3**. Narrative should support this and show a credible path to TRL 5–6.
