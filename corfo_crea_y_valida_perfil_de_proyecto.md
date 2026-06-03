@@ -113,42 +113,46 @@
 
 ## 4. Descripción del Proyecto
 
-**20. Objetivo general del proyecto**
+**20. Objetivo general del proyecto** (máximo 600 caracteres)
 *¿Qué busca desarrollar con el financiamiento? Sugerencia: comenzar con un verbo (investigar, fabricar…), luego qué, cómo y para qué.*
 
->
+> Desarrollar y validar Puelche, una plataforma de apoyo a la evaluación de licitaciones públicas basada en agentes de inteligencia artificial, integrando sus módulos funcionales en un prototipo operacional y sometiéndola a validación piloto con una unidad de compras pública, con el fin de demostrar su factibilidad técnica y comercial y posicionarla para su adopción institucional en el sistema de compras públicas chileno.
 
 **21. Objetivos específicos del proyecto**
 *Deben estar formulados coherentemente entre sí y derivar del Objetivo General.*
 
 > **Objetivo específico 1:**
+> Integrar y completar los módulos tecnológicos de Puelche —extracción de documentos, filtrado de propuestas, apoyo a la evaluación y capa de trazabilidad— en un prototipo funcional capaz de procesar la evaluación de licitaciones reales, alcanzando un nivel de madurez TRL 4–5.
 >
 >
 > **Objetivo específico 2:**
+> Validar el desempeño del prototipo en condiciones operacionales reales mediante un piloto en modalidad shadow con una unidad de compras pública, midiendo precisión, reducción de tiempos y aceptación institucional para alcanzar TRL 5–6.
 >
 >
 > **Objetivo específico 3:**
->
+> Desarrollar y ejecutar una estrategia de entrada al mercado que incluya modelamiento de negocio, validación con clientes potenciales e institucionales, y definición del modelo de comercialización, habilitando la transición de Puelche hacia un despliegue precomercial.
 
 **22. Resultados esperados en la ejecución del proyecto**
 *Conocimiento empaquetado que dará origen a un producto y/o proceso. Deben estar alineados con cada objetivo específico.*
 
 > **Resultado principal 1:**
+> Prototipo funcional integrado de la plataforma Puelche, compuesto por los módulos de extracción de documentos, filtrado de propuestas, apoyo a la evaluación e interfaz con trazabilidad, validado sobre licitaciones históricas reales y capaz de procesar el flujo de evaluación con métricas de desempeño documentadas (precisión de admisibilidad ≥ 75%, cobertura de criterios de evaluación ≥ 15).
 >
 >
 > **Resultado principal 2:**
+> Informe de validación operacional derivado del piloto en modalidad shadow, que incluye mediciones cuantitativas de reducción de tiempo (≥ 40%) y costo de evaluación (≥ 40%), indicadores de confiabilidad inter-evaluador (F1 ≥ 80%) y una evaluación estructurada de aceptación institucional, constituyendo evidencia suficiente para certificar TRL 5–6 y habilitar el despliegue precomercial.
 >
 >
 > **Resultado principal 3:**
->
+> Plan de entrada al mercado validado, que incluye modelo de negocio (estructura de precios, modelo SaaS para instituciones públicas), perfiles de cliente objetivo priorizados (SERVIU, municipios, servicios con alta carga de licitaciones) y hoja de ruta comercial con al menos una carta de intención o acuerdo de piloto con una institución distinta a la socia del proyecto.
 
 **23. ¿Qué problema, desafío u oportunidad busca resolver y cuál es el mercado objetivo?**
-*Describa el problema/oportunidad, el sector/mercado objetivo, y el tamaño y oportunidad de negocio.*
+*Describa el problema/oportunidad, el sector/mercado objetivo, y el tamaño y oportunidad de negocio.* (máximo 1500 caracteres)
 
 >
 
 **24. Describa en detalle la solución que abordará en el proyecto**
-*Incluya el funcionamiento del prototipo, características principales y atributos que agregan valor frente a lo ya existente.*
+*Incluya el funcionamiento del prototipo, características principales y atributos que agregan valor frente a lo ya existente.* (máximo 1500 caracteres)
 
 >
 
@@ -161,7 +165,7 @@
 
 > TRL 3
 
-**26. Principales desafíos técnicos/tecnológicos ya superados que respaldan el estado de avance declarado**
+**26. Principales desafíos técnicos/tecnológicos ya superados que respaldan el estado de avance declarado** (máximo 1000 caracteres)
 
 >
 
@@ -182,7 +186,7 @@
 ## 6. Mercado y Estrategia Comercial
 
 **28. Introducción al mercado, validación y escalamiento**
-*Describa la estrategia de explotación comercial y la hoja de ruta desde el estado actual hasta el posicionamiento en el mercado.*
+*Describa la estrategia de explotación comercial y la hoja de ruta desde el estado actual hasta el posicionamiento en el mercado.* (máximo 1000 caracteres)
 
 >
 
@@ -192,19 +196,19 @@
 
 **29. ¿Qué actividades o ítems busca financiar con este fondo y cuál es el presupuesto asignado?**
 
-**RRHH** *(monto total y desglosado para Recursos Humanos)*
+**RRHH** *(monto total y desglosado para Recursos Humanos)* (máximo 400 caracteres)
 
 >
 
-**Gastos operacionales** *(monto total y desglosado)*
+**Gastos operacionales** *(monto total y desglosado)* (máximo 400 caracteres)
 
 >
 
-**Gastos de administración** *(monto total y desglosado)*
+**Gastos de administración** *(monto total y desglosado)* (máximo 400 caracteres)
 
 >
 
-**Inversión** *(monto total y desglosado)*
+**Inversión** *(monto total y desglosado)* (máximo 1000 caracteres)
 
 >
 
@@ -214,23 +218,23 @@
 
 **30. Describa las capacidades con las cuales cuenta la empresa para desarrollar el proyecto**
 
-**Equipo humano**
+**Equipo humano** (máximo 600 caracteres)
 
 >
 
-**Infraestructura relevante para la ejecución directa del proyecto**
+**Infraestructura relevante para la ejecución directa del proyecto** (máximo 600 caracteres)
 
 >
 
-**Equipamiento relevante para la ejecución directa del proyecto**
+**Equipamiento relevante para la ejecución directa del proyecto** (máximo 600 caracteres)
 
 >
 
-**Capacidad financiera**
+**Capacidad financiera** (máximo 600 caracteres)
 *Señale con qué recursos concretos cuenta la empresa para enfrentar los compromisos financieros (ventas, créditos, capital propio, levantamiento de capital, entre otros).*
 
 >
 
-**En caso de proyecto colaborativo: ¿Cuáles son las capacidades que demandará de un tercero en la ejecución del proyecto?**
+**En caso de proyecto colaborativo: ¿Cuáles son las capacidades que demandará de un tercero en la ejecución del proyecto?** (máximo 600 caracteres)
 
 > N/A (proyecto Individual)
