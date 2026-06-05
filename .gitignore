@@ -2,3 +2,6 @@
 .AppleDouble
 .LSOverride
 ._*
+
+# Office temporary/lock files
+~$*
