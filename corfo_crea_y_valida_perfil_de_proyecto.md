@@ -116,20 +116,19 @@
 **20. Objetivo general del proyecto** (máximo 600 caracteres)
 *¿Qué busca desarrollar con el financiamiento? Sugerencia: comenzar con un verbo (investigar, fabricar…), luego qué, cómo y para qué.*
 
-> Desarrollar y validar Puelche, una plataforma de apoyo a la evaluación de licitaciones públicas basada en agentes de inteligencia artificial, integrando sus módulos funcionales en un prototipo operacional y sometiéndola a validación piloto con una unidad de compras pública, con el fin de demostrar su factibilidad técnica y comercial y posicionarla para su adopción institucional en el sistema de compras públicas chileno.
+> Desarrollar y validar Puelche, una plataforma de apoyo a la evaluación de licitaciones públicas basada en agentes de inteligencia artificial, integrando sus módulos funcionales en un prototipo operacional y sometiéndola a validación piloto con una unidad de compras pública, con el fin de demostrar su factibilidad técnica y comercial y avanzar hacia su eventual adopción institucional en el sistema de compras públicas chileno.
 
 **21. Objetivos específicos del proyecto**
 *Deben estar formulados coherentemente entre sí y derivar del Objetivo General.*
 
 > **Objetivo específico 1:**
-> Integrar y completar los módulos tecnológicos de Puelche —extracción de documentos, filtrado de propuestas, apoyo a la evaluación y capa de trazabilidad— en un prototipo funcional capaz de procesar la evaluación de licitaciones reales, alcanzando un nivel de madurez TRL 4–5.
->
+> Integrar y completar los módulos tecnológicos de Puelche —extracción de documentos, filtrado de propuestas, apoyo a la evaluación y capa de trazabilidad— en un prototipo funcional capaz de procesar la evaluación de licitaciones reales, resolviendo el desafío de interpretar bases heterogéneas, identificar criterios variables y vincular evidencia documental trazable para apoyo a la evaluación, alcanzando un nivel de madurez TRL 4–5.
 >
 > **Objetivo específico 2:**
-> Validar el desempeño del prototipo en condiciones operacionales reales mediante un piloto en modalidad shadow con una unidad de compras pública, midiendo precisión, reducción de tiempos y aceptación institucional para alcanzar TRL 5–6.
+> Validar el desempeño del prototipo en condiciones operacionales reales mediante un piloto en modalidad shadow con SERVIU RM, en el que Puelche genere preevaluaciones y evidencia trazable sobre procesos reales sin intervenir en la decisión formal de la comisión evaluadora, midiendo precisión, reducción de tiempos, aceptación institucional y revisión de posibles sesgos para alcanzar TRL 5–6.
 >
 > **Objetivo específico 3:**
-> Diseñar la estrategia de entrada al mercado de Puelche, definiendo el modelo de negocio y de comercialización (modelo SaaS de suscripción institucional y estructura de precios) y priorizando los perfiles de cliente objetivo de mayor carga evaluativa (red SERVIU, servicios de salud y municipios).
+> Diseñar la estrategia de entrada al mercado de Puelche, definiendo el modelo de negocio y comercialización, y priorizando perfiles de cliente objetivo de mayor carga evaluativa, como la red SERVIU, servicios de salud y municipios.
 >
 > **Objetivo específico 4:**
 > Validar la estrategia comercial mediante el contacto con clientes potenciales e institucionales, obteniendo al menos una carta de intención o acuerdo de piloto con una entidad distinta a la socia del proyecto, para habilitar la transición de Puelche hacia su despliegue precomercial.
@@ -142,12 +141,10 @@
 >
 >
 > **Resultado principal 2:**
-> Informe de validación operacional derivado del piloto en modalidad shadow con una unidad de compras pública, que incluye mediciones cuantitativas de reducción de tiempo (≥ 40%) y costo de evaluación (≥ 40%), indicadores de confiabilidad inter-evaluador (F1 ≥ 80%) y una evaluación estructurada de aceptación institucional, alcanzando un nivel de madurez TRL 5–6.
->
+> Informe de validación operacional derivado del piloto en modalidad shadow con SERVIU RM, en el que Puelche opere en paralelo a la comisión evaluadora sobre procesos reales, que incluye mediciones cuantitativas de reducción de tiempo (≥ 40%) y costo de evaluación (≥ 40%), indicadores de concordancia con la evaluación humana de referencia (F1 ≥ 80%), una evaluación estructurada de aceptación institucional y una revisión de posibles sesgos o discriminaciones significativas detectables en los resultados del piloto, alcanzando un nivel de madurez TRL 5–6.
 >
 > **Resultado principal 3:**
-> Estrategia de entrada al mercado documentada, que incluye el modelo de negocio y de comercialización (modelo SaaS de suscripción institucional y estructura de precios), perfiles de cliente objetivo priorizados (red SERVIU, servicios de salud y municipios con alta carga de licitaciones) y la hoja de ruta comercial desde el estado actual hasta el despliegue precomercial.
->
+> Estrategia de entrada al mercado documentada, que incluye una propuesta de modelo de negocio y comercialización, perfiles de cliente objetivo priorizados (red SERVIU, servicios de salud y municipios con alta carga de licitaciones) y una hoja de ruta comercial para la transición desde el estado actual hacia un eventual despliegue precomercial.
 >
 > **Resultado principal 4:**
 > Evidencia de validación comercial obtenida a partir del contacto con clientes potenciales e institucionales, que incluye retroalimentación estructurada sobre la propuesta de valor y al menos una carta de intención o acuerdo de piloto con una institución distinta a la socia del proyecto, habilitando la transición de Puelche hacia su despliegue precomercial.
@@ -159,14 +156,14 @@
 >
 > El mercado objetivo son las unidades de adquisiciones y comisiones evaluadoras de organismos públicos chilenos que operan sobre Mercado Público, con foco en entidades de alta carga evaluativa: SERVIU, servicios de salud, municipios y organismos de obras públicas. En 2024, Mercado Público procesó más de 2 millones de órdenes movilizando USD 17.600 millones con 1.086 entidades compradoras activas.
 >
-> La oportunidad de negocio es un modelo SaaS con suscripción institucional anual: TAM de USD 17,2M (1.086 instituciones), SAM de USD 253K (red SERVIU), sin competidores directos en el segmento de evaluación cualitativa de licitaciones en Chile.
+> La oportunidad de negocio sugiere un modelo SaaS con suscripción institucional anual: TAM de USD 17,2M (1.086 instituciones), SAM de USD 253K (red SERVIU), y un espacio poco atendido en el segmento de evaluación cualitativa de licitaciones en Chile.
 
 **24. Describa en detalle la solución que abordará en el proyecto**
 *Incluya el funcionamiento del prototipo, características principales y atributos que agregan valor frente a lo ya existente.* (máximo 1500 caracteres)
 
-> Puelche es una plataforma de apoyo a la evaluación de licitaciones basada en agentes de IA. Opera en cinco módulos integrados: (1) Extracción de documentos: convierte documentos heterogéneos (PDF, Word, imágenes escaneadas) en representaciones estructuradas mediante OCR y parsers especializados; (2) Filtrado de propuestas: verifica el cumplimiento de requisitos de admisibilidad definidos en las bases y genera una matriz trazable por oferente; (3) Apoyo a la evaluación: agentes especializados identifican los criterios de evaluación en las bases, localizan evidencia en las propuestas y estructuran los antecedentes para cada criterio, sin emitir decisiones vinculantes; (4) Biblioteca de habilidades: capa de capacidades reutilizables que los agentes invocan para tareas de análisis especializado; (5) Interfaz con trazabilidad: panel web que vincula cada resultado analítico a su evidencia documental, con registro de auditoría y exportación.
+> Puelche es una plataforma de apoyo a la evaluación de licitaciones basada en agentes de IA. Opera en cinco módulos integrados: (1) Extracción de documentos: convierte documentos heterogéneos (PDF, Word, imágenes escaneadas) en representaciones estructuradas mediante OCR y parsers especializados; (2) Filtrado de propuestas: verifica el cumplimiento de requisitos de admisibilidad definidos en las bases y genera una matriz trazable por oferente; (3) Apoyo a la evaluación: agentes especializados identifican los criterios de evaluación en las bases, localizan evidencia en las propuestas y estructuran antecedentes y prepuntajes para revisión humana, sin emitir decisiones vinculantes; (4) Biblioteca de habilidades: capa de capacidades reutilizables que los agentes invocan para tareas de análisis especializado; (5) Interfaz con trazabilidad: panel web que vincula cada resultado analítico a su evidencia documental, con registro de auditoría y exportación, obligando a la revisión humana antes de cualquier uso institucional del resultado.
 >
-> Frente a soluciones existentes (chatbots, RAG), Puelche es la única que aborda la evaluación cualitativa completa, interpreta criterios definidos dinámicamente en cada licitación y mantiene control humano total sobre las decisiones. Todo resultado es trazable hasta el documento fuente, garantizando transparencia y cumplimiento regulatorio.
+> Frente a soluciones existentes (chatbots, RAG), Puelche busca abordar de manera integral la evaluación cualitativa, interpretando criterios definidos dinámicamente en cada licitación y manteniendo control humano total sobre las decisiones. Todo resultado es trazable hasta el documento fuente, garantizando transparencia y cumplimiento regulatorio.
 
 ---
 
@@ -175,7 +172,7 @@
 **25. Estado de avance actual de la solución (TRL)**
 *(TRL 1–9; ver Anexo 2 de las bases)*
 
-> TRL 3
+> Estado actual cercano a TRL 3, con foco del proyecto en integrar los módulos existentes y validarlos en contexto operacional para avanzar a TRL 4–5 durante la Fase I.
 
 **26. Principales desafíos técnicos/tecnológicos ya superados que respaldan el estado de avance declarado** (máximo 1000 caracteres)
 
@@ -185,15 +182,12 @@
 *Describa los desafíos cuya incertidumbre científico-tecnológica requiera actividades de I+D para superarlos.*
 
 > **Desafío técnico/tecnológico 1:**
-> Integración robusta de todos los módulos del sistema en un pipeline end-to-end. El prototipo actual valida solo el módulo de apoyo a la evaluación sobre documentos bien formados. El desafío es integrar el módulo de filtrado de propuestas, el pipeline completo de extracción (incluyendo OCR para documentos escaneados de baja calidad) y la interfaz de usuario en una arquitectura coordinada y confiable, que mantenga trazabilidad completa entre módulos y funcione correctamente sobre la diversidad de formatos y calidades documentales presentes en Mercado Público.
+> Integración robusta de todos los módulos del sistema en un pipeline end-to-end para procesar bases y ofertas heterogéneas con trazabilidad verificable. El prototipo actual valida solo el módulo de apoyo a la evaluación sobre documentos bien formados. El desafío es integrar el módulo de filtrado de propuestas, el pipeline completo de extracción (incluyendo OCR para documentos escaneados de baja calidad) y la interfaz de usuario en una arquitectura coordinada y confiable, que mantenga trazabilidad completa entre módulos y funcione correctamente sobre la diversidad de formatos y calidades documentales presentes en Mercado Público.
 >
 >
-> **Desafío técnico/tecnológico 2:**
-> Optimización del sistema agentico para alcanzar desempeño operacional a costo viable. Los agentes de IA basados en LLMs presentan variabilidad en precisión y costo de inferencia que debe reducirse mediante optimización sistemática del harness agentico: diseño de habilidades reutilizables, ajuste de la política supervisora y refinamiento de la representación de documentos. El desafío es alcanzar los umbrales de desempeño objetivo (precisión ≥ 75%, F1 ≥ 80%, costo ≤ USD 5/propuesta) de forma estable y reproducible sobre licitaciones no vistas durante el desarrollo.
+> **Desafío técnico/tecnológico 2:** Optimización del sistema agentico para interpretar criterios de evaluación variables, sostener desempeño operacional a costo viable y mantener consistencia en la evidencia presentada a evaluadores humanos. Los agentes de IA basados en LLMs presentan variabilidad en precisión y costo de inferencia que debe reducirse mediante optimización sistemática del harness agentico: diseño de habilidades reutilizables, ajuste de la política supervisora y refinamiento de la representación de documentos. El desafío es alcanzar los umbrales de desempeño objetivo (precisión ≥ 75%, F1 ≥ 80%, costo ≤ USD 5/propuesta) de forma estable y reproducible sobre licitaciones no vistas durante el desarrollo.
 >
->
-> **Desafío técnico/tecnológico 3:**
-> Validación del sistema en un entorno operacional institucional real. Desplegar Puelche en modalidad shadow dentro de los flujos de trabajo de una unidad de compras pública implica resolver desafíos técnicos de integración con infraestructura institucional (acceso seguro a documentación, cumplimiento de políticas de ciberseguridad del sector público) y demostrar que el sistema mantiene su desempeño bajo las condiciones heterogéneas y la variabilidad documental de procesos licitatorios reales en curso.
+> **Desafío técnico/tecnológico 3:** Validación del sistema en un entorno operacional institucional real, resguardando que su uso sea de apoyo a la comisión evaluadora y no de automatización de la decisión formal. Desplegar Puelche en modalidad shadow dentro de los flujos de trabajo de una unidad de compras pública implica resolver desafíos técnicos de integración con infraestructura institucional (acceso seguro a documentación, cumplimiento de políticas de ciberseguridad del sector público) y demostrar que el sistema mantiene su desempeño bajo las condiciones heterogéneas y la variabilidad documental de procesos licitatorios reales en curso.
 
 ---
 
@@ -202,7 +196,7 @@
 **28. Introducción al mercado, validación y escalamiento**
 *Describa la estrategia de explotación comercial y la hoja de ruta desde el estado actual hasta el posicionamiento en el mercado.* (máximo 1000 caracteres)
 
-> Puelche se comercializará como plataforma SaaS con suscripción anual por institución pública. La hoja de ruta sigue tres etapas: (1) Validación: piloto en modalidad shadow con SERVIU RM, generando evidencia cuantitativa de reducción de tiempos (≥40%) y precisión (F1≥80%) para consolidar TRL 5–6; (2) Escalamiento sectorial: replicación en las 16 oficinas regionales SERVIU bajo el MINVU y al menos un piloto en otro sector (salud o municipios); (3) Despliegue ampliado: integración con Mercado Público/ChileCompra para alcanzar las 1.086 entidades compradoras activas. Mercado: TAM de USD 17,2M anuales (1.086 instituciones); SAM de USD 253K (red SERVIU); SOM conservador de USD 63K (4 instituciones post-piloto). No existe hoy competidor directo en evaluación cualitativa de licitaciones en Chile.
+> La estrategia comercial preliminar considera una plataforma SaaS con suscripción anual por institución pública, sujeta a validación durante el proyecto. La hoja de ruta propuesta sigue tres etapas: (1) Validación: piloto en modalidad shadow con SERVIU RM, generando evidencia cuantitativa de reducción de tiempos (≥40%), concordancia con evaluación humana de referencia (F1≥80%) y aceptación institucional para consolidar TRL 5–6; (2) Escalamiento sectorial: exploración de replicabilidad en la red SERVIU y levantamiento de interés en otro sector, como salud o municipios; (3) Despliegue ampliado: definición de una ruta de integración institucional y comercial posterior al piloto. Mercado: TAM de USD 17,2M anuales (1.086 instituciones); SAM de USD 253K (red SERVIU); SOM conservador de USD 63K (4 instituciones post-piloto). No se identifican hoy competidores directos claros en evaluación cualitativa de licitaciones en Chile.
 
 ---
 
