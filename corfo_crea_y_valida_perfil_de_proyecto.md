@@ -234,7 +234,7 @@
 
 **Infraestructura relevante para la ejecución directa del proyecto** (máximo 600 caracteres)
 
-> CENIA opera un modelo de infraestructura híbrido que combina recursos computacionales internos con servicios cloud externos seguros, habilitando flujos analíticos intensivos en documentos con estándares de ciberseguridad compatibles con el sector público. El proyecto se ejecutará en instalaciones de CENIA, que aporta un espacio de oficina completo durante los 24 meses. CENIA mantiene además convenios institucionales con SERVIU RM y experiencia operando proyectos de IA en organismos públicos (p. ej. "Hazlo con IA" con municipios y piloto con SERVIU RM).
+> CENIA dispone de tres instalaciones en el Campus San Joaquín de la UC: una oficina (capacidad: 70 personas) que alberga las funciones administrativas; un laboratorio de IA orientado al trabajo académico y experimental; y un laboratorio (capacidad: 30 personas) habilitado para el equipo de investigación. En conjunto proveen el entorno físico necesario para sostener la investigación y transferencia tecnológica del Centro. CENIA mantiene convenios institucionales con SERVIU RM y experiencia con proyectos de IA en organismos públicos, p. ej. "Hazlo con IA" con municipios y piloto con SERVIU RM.
 
 **Equipamiento relevante para la ejecución directa del proyecto** (máximo 600 caracteres)
 
@@ -243,7 +243,7 @@
 **Capacidad financiera** (máximo 600 caracteres)
 *Señale con qué recursos concretos cuenta la empresa para enfrentar los compromisos financieros (ventas, créditos, capital propio, levantamiento de capital, entre otros).*
 
-> CENIA es una corporación de investigación con operación financiera estable, respaldada por financiamiento institucional recurrente y por la adjudicación de proyectos y convenios con organismos nacionales e internacionales (p. ej. BID, Banco Mundial, Google.org). Estos flujos de ingresos y el capital propio de la corporación le permiten cubrir el aporte comprometido —pecuniario y no pecuniario— y sostener los compromisos financieros del proyecto durante sus 24 meses de ejecución, garantizando la continuidad operacional del equipo y la infraestructura.
+> CENIA cuenta con una estructura de financiamiento diversificada que combina subsidio público base (ANID Basal FB210017) con ingresos propios provenientes de transferencia tecnológica, formación y servicios especializados en IA. En los últimos 5 años, el Centro ha adjudicado más de 80 proyectos con el sector productivo y el Estado, escalando sus ingresos propios desde CLP $82,5 millones (2022) hasta CLP $2.773 millones (2025),acreditando una capacidad real autofinanciamiento. Esta base de recursos garantiza la disponibilidad financiera para asumir los compromisos del presente proyecto.
 
 **En caso de proyecto colaborativo: ¿Cuáles son las capacidades que demandará de un tercero en la ejecución del proyecto?** (máximo 600 caracteres)
 
