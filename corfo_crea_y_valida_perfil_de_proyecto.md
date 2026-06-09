@@ -47,7 +47,7 @@
 
 **6. Fecha de Inicio de Actividades en un giro empresarial de primera categoría**
 
-> 25/11/2021
+> 14/03/2022
 
 **7. Número de meses de antigüedad de la empresa**
 
@@ -60,11 +60,11 @@
 **9. Ventas de la empresa en los últimos 24 meses (en pesos)**
 *(Ingresar solo valores numéricos)*
 
-> $
+> $3.806.796.152
 
 **10. Nombre de Contacto**
 
->
+> Felipe Ignacio del Río Rebolledo
 
 ---
 
@@ -78,7 +78,7 @@
 **12. Principal sector industrial en el que se enmarca la solución**
 *(Ej: Energía)*
 
->
+> Gobierno
 
 **13. Principal tendencia tecnológica en la que se enmarca la solución**
 *(Ej: Hidrógeno verde)*
@@ -87,7 +87,7 @@
 
 **14. Número total de trabajadores actualmente contratados a tiempo completo en la empresa**
 
->
+> 89
 
 **15. Con este mismo RUT ¿Ha postulado anteriormente el proyecto a CORFO?**
 
