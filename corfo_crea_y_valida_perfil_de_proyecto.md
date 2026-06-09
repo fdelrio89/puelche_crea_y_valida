@@ -122,10 +122,10 @@
 *Deben estar formulados coherentemente entre sí y derivar del Objetivo General.*
 
 > **Objetivo específico 1:**
-> Integrar y completar los módulos tecnológicos de Puelche —extracción de documentos, filtrado de propuestas, apoyo a la evaluación y capa de trazabilidad— en un prototipo funcional capaz de procesar la evaluación de licitaciones reales, resolviendo el desafío de interpretar bases heterogéneas, identificar criterios variables y vincular evidencia documental trazable para apoyo a la evaluación, alcanzando un nivel de madurez TRL 4–5.
+> Integrar y completar los módulos tecnológicos de Puelche —extracción documental, filtrado de propuestas, apoyo a la evaluación y trazabilidad— en un prototipo funcional capaz de procesar licitaciones reales, interpretando bases heterogéneas y vinculando evidencia trazable, alcanzando un TRL 4–5.
 >
 > **Objetivo específico 2:**
-> Validar el desempeño del prototipo en condiciones operacionales reales mediante un piloto en modalidad shadow con SERVIU RM, en el que Puelche genere preevaluaciones y evidencia trazable sobre procesos reales sin intervenir en la decisión formal de la comisión evaluadora, midiendo precisión, reducción de tiempos, aceptación institucional y revisión de posibles sesgos para alcanzar TRL 5–6.
+> Validar el desempeño del prototipo en condiciones reales mediante un piloto en modalidad shadow con SERVIU RM, generando preevaluaciones y evidencia trazable sobre procesos reales sin intervenir en la decisión formal, midiendo precisión, reducción de tiempos, aceptación institucional y revisión de sesgos, para alcanzar TRL 5–6.
 >
 > **Objetivo específico 3:**
 > Diseñar la estrategia de entrada al mercado de Puelche, definiendo el modelo de negocio y comercialización, y priorizando perfiles de cliente objetivo de mayor carga evaluativa, como la red SERVIU, servicios de salud y municipios.
@@ -137,17 +137,17 @@
 *Conocimiento empaquetado que dará origen a un producto y/o proceso. Deben estar alineados con cada objetivo específico.*
 
 > **Resultado principal 1:**
-> Prototipo funcional integrado de la plataforma Puelche, que reúne los módulos de extracción de documentos, filtrado de propuestas, apoyo a la evaluación e interfaz con trazabilidad, validado sobre licitaciones históricas reales con métricas de desempeño documentadas (precisión de admisibilidad ≥ 75%, cobertura de criterios de evaluación de propuestas ≥ 15), alcanzando un nivel de madurez TRL 4–5.
+> Prototipo funcional integrado de Puelche, que reúne los módulos de extracción, filtrado, apoyo a la evaluación y trazabilidad, validado sobre licitaciones históricas reales con métricas documentadas (precisión de admisibilidad ≥ 75%, cobertura de criterios ≥ 15), alcanzando TRL 4–5.
 >
 >
 > **Resultado principal 2:**
-> Informe de validación operacional derivado del piloto en modalidad shadow con SERVIU RM, en el que Puelche opere en paralelo a la comisión evaluadora sobre procesos reales, que incluye mediciones cuantitativas de reducción de tiempo (≥ 40%) y costo de evaluación (≥ 40%), indicadores de concordancia con la evaluación humana de referencia (F1 ≥ 80%), una evaluación estructurada de aceptación institucional y una revisión de posibles sesgos o discriminaciones significativas detectables en los resultados del piloto, alcanzando un nivel de madurez TRL 5–6.
+> Informe de validación del piloto en modalidad shadow con SERVIU RM, en que Puelche opera en paralelo a la comisión sobre procesos reales, con reducción de tiempo (≥ 40%) y costo (≥ 40%), concordancia con la evaluación humana (F1 ≥ 80%), aceptación institucional y revisión de sesgos, para TRL 5–6.
 >
 > **Resultado principal 3:**
-> Estrategia de entrada al mercado documentada, que incluye una propuesta de modelo de negocio y comercialización, perfiles de cliente objetivo priorizados (red SERVIU, servicios de salud y municipios con alta carga de licitaciones) y una hoja de ruta comercial para la transición desde el estado actual hacia un eventual despliegue precomercial.
+> Estrategia de entrada al mercado documentada, que incluye una propuesta de modelo de negocio y comercialización, perfiles de cliente objetivo priorizados (red SERVIU, salud y municipios con alta carga de licitaciones) y una hoja de ruta para la transición hacia un eventual despliegue precomercial.
 >
 > **Resultado principal 4:**
-> Evidencia de validación comercial obtenida a partir del contacto con clientes potenciales e institucionales, que incluye retroalimentación estructurada sobre la propuesta de valor y al menos una carta de intención o acuerdo de piloto con una institución distinta a la socia del proyecto, habilitando la transición de Puelche hacia su despliegue precomercial.
+> Evidencia de validación comercial a partir del contacto con clientes potenciales e institucionales, que incluye retroalimentación sobre la propuesta de valor y al menos una carta de intención o acuerdo de piloto con una institución distinta a la socia, habilitando el despliegue precomercial.
 
 **23. ¿Qué problema, desafío u oportunidad busca resolver y cuál es el mercado objetivo?**
 *Describa el problema/oportunidad, el sector/mercado objetivo, y el tamaño y oportunidad de negocio.* (máximo 1500 caracteres)
@@ -208,7 +208,7 @@
 
 **RRHH** *(monto total y desglosado para Recursos Humanos)* (máximo 400 caracteres)
 
-> Total: $147.360.000 (fondo: $118.560.000; aporte propio: $28.800.000). Con cargo al fondo: Ingeniero ML y Full-stack ($2.552.000/mes×15m=$38.280.000 c/u); 2 ML Trainee ($600.000/mes×15m=$9.000.000 c/u); Director/Líder Técnico y Director Alterno/Inv. Principal ($500.000/mes×24m=$12.000.000 c/u). Aporte propio: Contraparte Técnica de Validación y Usuario Experto para pilotaje ($600.000/mes×24m=$14.400.000 c/u).
+> Total: $147.360.000 (fondo: $118.560.000; aporte propio: $28.800.000). Con cargo al fondo: Ingeniero ML y Full-stack ($2.552.000/mes×15m=$38.280.000 c/u); 2 ML Trainee ($600.000/mes×15m=$9.000.000 c/u); Director/Líder Técnico y Director Alterno/Inv. Principal ($500.000/mes×24m=$12.000.000 c/u). Aporte propio: Contraparte Técnica y Usuario Experto para pilotaje ($600.000/mes×24m=$14.400.000 c/u).
 
 **Gastos operacionales** *(monto total y desglosado)* (máximo 400 caracteres)
 
@@ -230,11 +230,11 @@
 
 **Equipo humano** (máximo 600 caracteres)
 
-> El proyecto será ejecutado por el equipo de CENIA que ya desarrolló el prototipo actual. La dirección estará a cargo del Director/Líder Técnico (ingeniero industrial, PhD en Ciencias de la Computación PUC) y del Director Alterno/Investigador Principal (PhD), especialista en sistemas agénticos para análisis documental. El desarrollo lo realizarán un Ingeniero en Machine Learning, un Desarrollador Full Stack y dos ML Trainees, y la validación contará con una Contraparte Técnica y un Usuario Experto, que forman parte de SERVIU, para el pilotaje. CENIA suma convenios con más de veinte universidades para incorporar talento.
+> El proyecto será ejecutado por el equipo de CENIA que desarrolló el prototipo actual. La dirección estará a cargo del Director/Líder Técnico (ingeniero industrial, PhD en Ciencias de la Computación PUC) y del Director Alterno/Investigador Principal (PhD), especialista en sistemas agénticos para análisis documental. El desarrollo lo realizarán un Ingeniero en Machine Learning, un Desarrollador Full Stack y dos ML Trainees, y la validación contará con una Contraparte Técnica y un Usuario Experto de SERVIU. CENIA suma convenios con más de veinte universidades para incorporar talento.
 
 **Infraestructura relevante para la ejecución directa del proyecto** (máximo 600 caracteres)
 
-> CENIA dispone de tres instalaciones en el Campus San Joaquín de la UC: una oficina (capacidad: 70 personas) que alberga las funciones administrativas; un laboratorio de IA orientado al trabajo académico y experimental; y un laboratorio (capacidad: 30 personas) habilitado para el equipo de investigación. En conjunto proveen el entorno físico necesario para sostener la investigación y transferencia tecnológica del Centro. CENIA mantiene convenios institucionales con SERVIU RM y experiencia con proyectos de IA en organismos públicos, p. ej. "Hazlo con IA" con municipios y piloto con SERVIU RM.
+> CENIA cuenta con tres instalaciones en el Campus San Joaquín de la UC: una oficina (capacidad: 70 personas) destinada a las funciones administrativas, un laboratorio de IA orientado al trabajo académico y experimental, y un laboratorio (capacidad: 30 personas) habilitado para el equipo de investigación. En conjunto conforman el entorno físico que sostiene la investigación y la transferencia tecnológica del Centro. A ello se suman convenios institucionales con SERVIU RM y experiencia previa en proyectos de IA con organismos públicos, como "Hazlo con IA" con municipios.
 
 **Equipamiento relevante para la ejecución directa del proyecto** (máximo 600 caracteres)
 
