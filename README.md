@@ -7,6 +7,7 @@ Puelche es un sistema basado en agentes de IA que apoya la evaluación de licita
 ## Contenido
 
 - `corfo_crea_y_valida_perfil_de_proyecto.md` — Formulario del perfil de proyecto (documento principal).
+- `phase_1_feedback.md` — Retroalimentación del comité evaluador CORFO sobre el perfil de proyecto (Fase 1), con observaciones, recomendaciones y acciones prioritarias para la Fase 2.
 - `KB/` — Material de referencia: bases del concurso, formulario y antecedentes de la formulación FONDEF previa.
 - `AGENTS.md` — Contexto y convenciones de trabajo para la redacción.
 

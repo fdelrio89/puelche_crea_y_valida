@@ -14,6 +14,7 @@ All reference material is in `KB/`:
 - `KB/FONDEF/` — Supporting documents (TRL analysis, cost spreadsheets, presentation) from that prior formulation.
 - `KB/Bases tecnicas Crea y Valida.pdf` — The technical rules of the Crea y Valida contest.
 - `KB/Corfo Innova - Crea y Valida Form.pdf` — The actual form being filled out.
+- `phase_1_feedback.md` (repo root) — CORFO evaluation committee's feedback on the Phase 1 project profile, with observations, recommendations, and priority actions for Phase 2. Address these points when refining the proposal.
 
 ## Key Differences: FONDEF vs. Crea y Valida
 
