@@ -148,17 +148,100 @@
 **1. Identifique y caracterice el problema, desafío u oportunidad que da origen al proyecto, incorporando un análisis de sus causas.** \* (máximo 5000 caracteres)
 *Explique de manera clara y bien fundamentada. Incluyendo fuentes o referencias en caso de ser necesario.*
 
-> La evaluación de propuestas en licitaciones públicas chilenas es un cuello de botella manual y costoso: en 2025, el tiempo promedio desde publicación hasta adjudicación fue de 43,2 días, y el 34,2% de los procesos superó sus plazos con demoras promedio de 18,4 días. Las comisiones evaluadoras deben revisar manualmente cientos de páginas por oferente, verificar requisitos de admisibilidad y puntuar criterios técnicos, con alto riesgo de inconsistencias y litigios. Ninguna solución tecnológica aborda esta etapa de forma integral: las herramientas existentes se limitan a clasificación de gasto, detección de anomalías o asistencia conversacional, dejando la evaluación cualitativa completamente expuesta.
+>
+>
+> **[ESTRUCTURA — borrador para completar]**
+> **a) Contexto: la relevancia estratégica de la compra pública.**
+> - La compra pública es un instrumento económico de primer orden: ~12,7% del PIB en países OCDE y 14,3% del gasto de gobierno en Chile (2021).
+> - En 2024, Mercado Público procesó más de 2 millones de órdenes de compra, movilizando US$17.643 millones. Chile tiene alta madurez digital y regulatoria (Ley N°19.886, Decreto N°661).
+> - [BUSCAR: cifra actualizada 2025 de monto transado / N° de licitaciones sujetas a evaluación por comisión, para anclar la magnitud del proceso afectado.]
+>
+> **b) El problema central: la evaluación cualitativa de ofertas es un cuello de botella manual.**
+> - Pese a la madurez del sistema, la evaluación sustantiva de ofertas (admisibilidad + puntuación por criterios) sigue siendo un proceso manual, intensivo en tiempo y sensible institucionalmente.
+> - Afecta directamente a unidades de adquisición, comisiones evaluadoras y equipos legales/financieros de apoyo, que revisan grandes volúmenes documentales heterogéneos bajo presión de plazos.
+> - Es una frontera tecnológica no resuelta: mientras funciones periféricas (clasificación de gasto, detección de anomalías, comunicación con proveedores) ya tienen soluciones, la aplicación de LLMs y sistemas agénticos a la evaluación sustantiva de ofertas sigue sin resolverse a nivel global y nacional.
+>
+> **c) Análisis de causas.**
+> - *Causa 1 — Naturaleza manual e intensiva de la evaluación cualitativa:* revisión humana criterio por criterio, oferente por oferente, sin apoyo automatizado.
+> - *Causa 2 — Volumen y heterogeneidad documental:* las bases y ofertas llegan en formatos dispares (HTML, PDF, Word, imágenes escaneadas), lo que dificulta el procesamiento sistemático. [BUSCAR: N° promedio de páginas/documentos por expediente en SERVIU.]
+> - *Causa 3 — Variabilidad de criterios por licitación:* cada proceso define criterios y tablas de evaluación propios, lo que impide plantillas estáticas y exige interpretación experta caso a caso.
+> - *Causa 4 — Alta sensibilidad institucional y riesgo de litigación:* la etapa de evaluación y adjudicación concentra la mayoría de la litigación en compras públicas, elevando la exigencia de trazabilidad y fundamentación.
+> - *Causa 5 — Ausencia de herramientas confiables y auditables:* las soluciones de IA disponibles (chatbots, RAG) no abordan la evaluación cualitativa integral ni cumplen los requisitos de trazabilidad y control humano del sector público.
+>
+> **d) Oportunidad.**
+> - Existe una oportunidad de aumentar (no reemplazar) el trabajo de las comisiones con IA agéntica que preserve transparencia, trazabilidad, cumplimiento normativo y control humano (human-in-the-loop), atacando el cuello de botella sin alterar los procedimientos formales ni la autoridad de los funcionarios.
+>
+> _[Fuentes a citar: FONDEF/Formulacion.md; datos ChileCompra/Mercado Público 2024–2025; Ley N°19.886. Ajustar extensión a ≤5000 caracteres.]_
+
+---
+
+**Respuesta:**
+
+> **a) Contexto: la relevancia estratégica de la compra pública.**
+> La compra pública —la adquisición de obras, bienes o servicios por parte de entidades del Estado— es un mecanismo fundamental no solo para las transacciones de mercado, sino para la creación y protección de valor público (Grandia et al., 2023), y opera como un instrumento estratégico de política a través del cual los gobiernos entregan servicios, asignan recursos y persiguen objetivos sociales y económicos más amplios (OECD, 2025c). Su escala evidencia su importancia: en 2023 representó el 12,7% del PIB y cerca del 30% del gasto total de gobierno en los países de la OCDE, mientras que en América Latina y el Caribe alcanzó el 17,4% del gasto de gobierno en 2021 (OECD, 2024; OECD, 2025c). En Chile, la compra pública representó el 14,3% del gasto total de gobierno en 2021 (OECD, 2024), y en 2024 la plataforma nacional Mercado Público procesó más de dos millones de órdenes de compra, movilizando US$17.600 millones (Dirección ChileCompra, 2024). El sistema chileno, regido principalmente por la Ley N°19.886 y el Decreto N°661, descansa fuertemente en las licitaciones públicas, que concentran la mayor parte del gasto en compras (Decreto 661, 2024; Ley 19886, 2003).
+>
+> **b) El problema central: la evaluación cualitativa de ofertas es un cuello de botella manual.**
+> Pese a su importancia estratégica y fiscal, los sistemas de compra pública están frecuentemente limitados por ineficiencias administrativas, altos costos de transacción y demoras procedimentales persistentes. La aplicación rigurosa de la legislación introduce cargas de cumplimiento sustantivas y la licitación competitiva sigue siendo intensiva en trabajo humano (Balaeva et al., 2022). Dentro del ciclo de la compra, la evaluación sustantiva de ofertas continúa dependiendo fuertemente del trabajo manual, aun cuando funciones adyacentes —clasificación de gasto, detección de anomalías, comunicación con proveedores— se automatizan crecientemente (OECD, 2025a; Aboelazm & Dganni, 2025). La aplicación de modelos de lenguaje de gran escala (LLM) y sistemas agénticos autónomos a la evaluación cualitativa de ofertas sigue siendo limitada, y su integración exige rigurosa trazabilidad, cumplimiento normativo y marcos éticos estrictos (OECD, 2025b), por lo que constituye una frontera no resuelta en la modernización de las compras. En Chile, la fase de evaluación es la etapa más exigente analíticamente y más sensible institucionalmente, ya que las propuestas deben ser filtradas, puntuadas contra criterios preestablecidos y traducidas en una decisión de adjudicación jurídicamente vinculante (Decreto 661, 2024, Capítulo IV; Ley 19886, 2003). [Ismael: incorporar antecedentes específicos que permitan dimensionar el impacto de la etapa de evaluación en los plazos, costos y cargas operativas de las entidades compradoras]
+>
+> **c) Análisis de causas.**
+> - *Carga administrativa y de cumplimiento:* los procesos administrativos pueden consumir cerca del 1,4% del valor total del contrato (PwC, 2011), y mecanismos más complejos, como las licitaciones en dos etapas, pueden requerir más de 140 horas-persona (Balaeva et al., 2022).
+> - *Naturaleza manual de la evaluación cualitativa:* la revisión sustantiva de ofertas depende del trabajo humano, sin un apoyo automatizado equivalente al de las funciones periféricas ya automatizadas (OECD, 2025a; Aboelazm & Dganni, 2025).
+> - *Ausencia de herramientas confiables y auditables:* la integración de modelos avanzados a las operaciones centrales de compra implica complejidades profundas y exige trazabilidad, cumplimiento normativo y marcos éticos, requisitos que las soluciones disponibles aún no satisfacen (OECD, 2025b).
+> - *Alta sensibilidad institucional y litigación:* las etapas de evaluación y adjudicación concentran la mayoría de la litigación asociada a las compras públicas (Tribunal de Contratación Pública, n.d.).
+>
+> Estas fricciones se traducen en demoras medibles: la evidencia del Reino Unido muestra que cerca de la mitad de los procesos experimenta sobrecostos de tiempo, con duraciones promedio superiores a 70 días (He et al., 2023). En Chile, en 2025 la licitación estándar requirió en promedio 43,2 días desde la publicación hasta la adjudicación, mientras que el 34,2% de los procesos excedió sus plazos estimados, con demoras promedio de 18,4 días y casos que se extendieron hasta 345 días más allá del plazo, situación especialmente severa en sectores de alto impacto como obras públicas y salud.
+>
+> **d) Oportunidad.**
+> Chile ofrece condiciones inusualmente favorables para una intervención tecnológica. Mercado Público es reconocido como uno de los sistemas de compra electrónica más desarrollados de América Latina; la temprana integración digital entre 2006 y 2007 generó ahorros administrativos estimados en 0,28%–0,38% del gasto de gobierno (OECD, 2024; Singer et al., 2009), y ChileCompra continúa invirtiendo en monitoreo basado en datos, transparencia e innovación, siendo recientemente premiada por la Red Interamericana de Compras Gubernamentales (Dirección ChileCompra, 2025). En otras palabras, el país cuenta ya con una base digital y regulatoria madura, pero la evaluación cualitativa de las ofertas sigue siendo un cuello de botella manual. Esa tensión no resuelta configura la oportunidad de desarrollar sistemas de apoyo a la evaluación asistidos por IA que aumenten —sin reemplazar— el trabajo de las comisiones, preservando transparencia, trazabilidad, cumplimiento normativo y control humano.
 
 **2. Dimensione el problema, desafío u oportunidad de forma cuantitativa y cualitativa. Sus argumentos deben estar debidamente fundados y documentados.** \* (máximo 5000 caracteres)
 
+> **[ESTRUCTURA — borrador para completar]**
 >
+> **a) Dimensión cuantitativa.**
+> - *Escala del sistema:* >2 millones de órdenes de compra y US$17.643 millones movilizados en Mercado Público (2024); la compra pública equivale al 14,3% del gasto de gobierno en Chile.
+> - *Tiempos del proceso:* tiempo promedio publicación–adjudicación de 43,2 días en 2025.
+> - *Incumplimiento de plazos:* 34,2% de los procesos excedió su plazo estimado, con retraso promedio de 18,4 días y casos extremos de hasta 345 días.
+> - *Costo de transacción del proceso manual:* [BUSCAR: horas-persona promedio por evaluación, cruzadas con salarios de comisiones → costo económico por licitación. Base para el "ahorro esperado ≥40%".]
+> - *Litigación asociada:* la etapa de evaluación/adjudicación concentra la mayoría de la litigación. [BUSCAR: N° de reclamos/impugnaciones ante Tribunal de Contratación Pública o Contraloría por año.]
+> - *Universo directamente afectado:* 1.086 instituciones compradoras activas; foco inicial en red SERVIU (16 regionales). [BUSCAR: N° de licitaciones/año que evalúa SERVIU RM.]
+>
+> **b) Dimensión cualitativa.**
+> - *Carga y fatiga del evaluador:* la revisión manual de expedientes extensos genera sobrecarga, riesgo de inconsistencia entre evaluadores y potencial de sesgo no auditado.
+> - *Tensión entre eficiencia y probidad:* la presión por acelerar convive con la exigencia de fundamentar cada decisión, sin herramientas que reduzcan el trabajo sin comprometer la trazabilidad.
+> - *Impacto en confianza pública y proveedores:* demoras y falta de fundamentación clara afectan la percepción de transparencia y el acceso de oferentes (especialmente PYMES) al mercado público.
+> - *Barrera de adopción tecnológica:* desconfianza institucional hacia soluciones de IA que no garanticen control humano ni cumplimiento normativo. Requerimiento normativo de esto mismo. [BUSCAR: evidencia cualitativa de entrevistas/talleres con SERVIU RM — testimonios sobre el dolor actual del proceso.]
+>
+> **c) Síntesis del dimensionamiento.**
+> - Cerrar/mitigar este cuello de botella habilita reducciones esperadas ≥40% en tiempo y costo de evaluación sobre un proceso de alto volumen, alta sensibilidad y baja penetración tecnológica actual.
+>
+> _[Fuentes a citar: ChileCompra/Mercado Público 2024–2025; FONDEF/Formulacion.md (línea base de costos de transacción); entrevistas SERVIU RM. Ajustar extensión a ≤5000 caracteres.]_
+
+---
+
+**Respuesta:**
+
+> **a) Dimensión cuantitativa.**
+> - *Escala del sistema:* en 2024, Mercado Público procesó más de 2,03 millones de órdenes de compra, movilizando USD 17.643 millones e involucrando a 1.086 instituciones compradoras públicas y más de 110.000 proveedores (Dirección ChileCompra, 2024). Las licitaciones públicas —el mecanismo más relevante para los procesos de evaluación que aborda la solución— concentraron cerca de USD 12.584 millones en transacciones en 2024, equivalentes al 71% del volumen total de compras (Ministerio de Vivienda y Urbanismo, n.d.). La compra pública representó, además, el 14,3% del gasto total de gobierno en Chile en 2021 (OECD, 2024).
+> - *Tiempos del proceso e incumplimiento de plazos:* en 2025, la licitación estándar requirió en promedio 43,2 días desde la publicación hasta la adjudicación, mientras que el 34,2% de los procesos excedió sus plazos estimados, con demoras promedio de 18,4 días y casos que se extendieron hasta 345 días más allá del plazo, situación especialmente severa en sectores de alto impacto como obras públicas y salud. Esta fricción es consistente con la evidencia internacional: los procesos administrativos pueden consumir cerca del 1,4% del valor total del contrato (PwC, 2011), las licitaciones en dos etapas pueden requerir más de 140 horas-persona (Balaeva et al., 2022), y en el Reino Unido cerca de la mitad de los procesos experimenta sobrecostos de tiempo, con duraciones promedio superiores a 70 días (He et al., 2023).
+> - *Carga documental y costo del proceso manual:* la evidencia institucional preliminar ilustra la magnitud de la carga: los procesos de compra de SERVIU RM en 2025 incluyeron 131 licitaciones públicas con 2.081 oferentes participantes, cada uno asociado a un promedio de aproximadamente 1.000 páginas de documentación (Dirección ChileCompra, 2026). Con las estimaciones actuales de procesamiento documental e inferencia de modelos de lenguaje, el análisis automatizado de cerca de 1.000 páginas implicaría un costo operacional de aproximadamente USD 4,5 por licitación, muy por debajo de los costos laborales de la revisión manual en contextos comparables.
+> - *Litigación asociada:* las etapas de evaluación y adjudicación concentran la mayoría de la litigación asociada a las compras públicas (Tribunal de Contratación Pública, n.d.).
+> - *Universo de mercado directamente afectado:* el mercado puede describirse en tres niveles. El Total Addressable Market (TAM) corresponde a las 1.086 instituciones compradoras públicas que operan a través de Mercado Público, lo que implica un potencial de ingresos recurrentes de aproximadamente USD 17,2 millones anuales bajo el modelo de suscripción preliminar. El Serviceable Available Market (SAM) corresponde al contexto de despliegue sectorial inicial —la red de 16 SERVIU regionales bajo el MINVU—, equivalente a cerca de USD 253.440 en ingresos anuales recurrentes. El Serviceable Obtainable Market (SOM) corresponde a un escenario conservador de expansión inicial en que cuatro instituciones públicas adoptan la plataforma tras la validación piloto, representando cerca de USD 63.360 en ingresos anuales recurrentes. La accesibilidad del mercado se refuerza con la incorporación de más de 250 entidades públicas adicionales a la plataforma desde 2024 (Dirección ChileCompra, 2025a).
+>
+> **b) Dimensión cualitativa.**
+> - *Carga y fatiga del evaluador:* la evaluación sustantiva de ofertas depende de un trabajo humano intensivo para revisar grandes volúmenes de documentación —del orden de 1.000 páginas por oferente en SERVIU RM (Dirección ChileCompra, 2026)—, verificar condiciones de admisibilidad, cruzar evidencia de respaldo y estructurar los resultados de evaluación, tareas que carecen de un apoyo automatizado equivalente al de las funciones periféricas ya digitalizadas (clasificación de gasto, detección de anomalías, comunicación con proveedores).
+> - *Tensión entre eficiencia y probidad:* la fase de evaluación es la etapa más exigente analíticamente y la más sensible institucionalmente, ya que las propuestas deben ser filtradas, puntuadas contra criterios preestablecidos y traducidas en una decisión de adjudicación jurídicamente vinculante (Decreto 661, 2024, Capítulo IV; Ley 19886, 2003). La aplicación rigurosa de la normativa introduce cargas de cumplimiento sustantivas, de modo que la presión por reducir tiempos convive con la exigencia de preservar transparencia, trazabilidad y cumplimiento regulatorio, sin herramientas que aligeren el trabajo sin comprometer estos resguardos.
+> - *Impacto en confianza pública y proveedores:* las demoras en la evaluación retrasan la implementación de programas e infraestructura pública, mientras que una trazabilidad más clara puede fortalecer la confianza en las decisiones de compra. El proceso involucra además a más de 110.000 proveedores (Dirección ChileCompra, 2024), que enfrentan una complejidad administrativa significativa al preparar sus propuestas y asegurar el cumplimiento de la normativa de compras.
+> - *Barrera de adopción tecnológica:* las instituciones públicas pueden mostrarse inicialmente cautelosas ante la adopción de herramientas analíticas automatizadas en flujos administrativos sensibles, y todo sistema de este tipo debe permanecer estrictamente subordinado a la autoridad humana. La integración de modelos avanzados en las operaciones centrales de compra exige rigurosa trazabilidad, cumplimiento normativo y marcos éticos estrictos (OECD, 2025b), lo que impone un modelo con control humano (human-in-the-loop) y una validación progresiva basada en despliegue piloto y pruebas en modalidad shadow.
+>
+> **c) Síntesis del dimensionamiento.**
+> El problema afecta a un proceso de alto volumen (más de 2,03 millones de órdenes de compra y USD 17.643 millones movilizados en 2024), alta sensibilidad institucional —concentra la mayoría de la litigación asociada a las compras públicas— y baja penetración tecnológica en su etapa sustantiva de evaluación. La magnitud de la carga —131 licitaciones con 2.081 oferentes y del orden de 1.000 páginas por oferente en SERVIU RM durante 2025 (Dirección ChileCompra, 2026)— contrasta con un costo de análisis automatizado de aproximadamente USD 4,5 por licitación, muy por debajo del costo laboral de la revisión manual, lo que evidencia el espacio de eficiencia disponible sobre un mercado que alcanza un TAM de ~USD 17,2 millones anuales.
 
 ### Mercado Objetivo
 
 **3. Identifique, caracterice (incluya además antecedentes que demuestran el interés o necesidad de contar con una solución) y dimensione los principales actores (usuarios y/o clientes) que se ven afectados por el problema o desafío, o bien se beneficiarían de la oportunidad a abordar en el proyecto.** \* (máximo 5000 caracteres)
 
-> El mercado objetivo son las unidades de adquisiciones y comisiones evaluadoras de organismos públicos chilenos que operan sobre Mercado Público, con foco en entidades de alta carga evaluativa: SERVIU, servicios de salud, municipios y organismos de obras públicas. En 2024, Mercado Público procesó más de 2 millones de órdenes movilizando USD 17.600 millones con 1.086 entidades compradoras activas.
+>
 
 ---
 
